@@ -1,0 +1,2 @@
+# equadmath
+EQuadMath or MyQuadMath
